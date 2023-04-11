@@ -23,6 +23,8 @@
 
 ## :star: Projects
 
+> We use Minecraft version 1.19.2 by default.
+
 ### :mushroom: Items
 
 * [Pink Sword](#)
@@ -30,6 +32,7 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/34566999/231247288-c55e31c4-f696-49e7-9a1f-5821a7bafec1.gif">
 </p>
+
 ---
 
 ## :seedling: Resources
